@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PancakeSwap Intro](README.md)
+* [MetaReverse Intro](README.md)
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
@@ -59,7 +59,7 @@
   * [CAKE Tokenomics](tokenomics/cake/cake-tokenomics.md)
   * [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
 
-## Developers <a href="code" id="code"></a>
+## Developers <a href="#code" id="code"></a>
 
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
@@ -85,7 +85,7 @@
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
   * [UI/UX Designer](hiring/become-a-chef/ui-ux-designer.md)
 
-## Contract Governance <a href="governance" id="governance"></a>
+## Contract Governance <a href="#governance" id="governance"></a>
 
 * [Lottery](governance/lottery/README.md)
   * [Lottery Contract](governance/lottery/lottery-contract.md)
