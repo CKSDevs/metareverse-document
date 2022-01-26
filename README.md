@@ -73,7 +73,11 @@ In the MetaReverse casino players will be able to gamble by playing roulette,bla
 
 _****_
 
-_****_
+## _**MetaReverse NFT Marketplace**_
+
+MetaReverse will have a NFT Marketplace and we will have different projects launching their nft's on the marketplace. MetaReverse NFT's will be available aswell on MetaReverse NFT Marketplace.
+
+
 
 ## Is MetaReverse safe?
 
