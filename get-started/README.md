@@ -1,3 +1,7 @@
+---
+description: We will guide you trough!
+---
+
 # Get Started
 
 ![](<../.gitbook/assets/docs-masthead-15- (1).png>)
@@ -6,7 +10,7 @@ Using anything new can be a bit of a challenge. Don't worry though, we've create
 
 ## Setting up MetaReverse AMM
 
-Follow these guides to get everything set up to use MetaReverse Swap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
+Follow these guides to get everything set up to use MetaReverse AMM, or feel free to jump to the guide you need if you've been doing okay but lost your way.
 
 [Create a Wallet](https://docs.pancakeswap.finance/get-started/wallet-guide)\
 [Get BEP20 Tokens](https://docs.pancakeswap.finance/get-started/bep20-guide)\
@@ -26,6 +30,6 @@ Once you have a wallet set up and connected to MetaReverse AMM feel free to chec
 [How to Set Up an NFT Profile](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)\
 [How to Vote](https://docs.pancakeswap.finance/products/voting/voting-guide)
 
-Check the menu for more documentation on the range of PancakeSwap features and services, including more advanced guides.
+Check the menu for more documentation on the range of MetaReverse AMM features and services, including more advanced guides.
 
 If you can't find what you need, feel free to visit the [MetaReverse Telegram](https://t.me/MTRMetaReverse) and ask for help there!
