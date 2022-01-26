@@ -73,6 +73,10 @@ In the MetaReverse casino players will be able to gamble by playing roulette,bla
 
 _****_
 
+## _**MetaReverse AMM**_
+
+MetaReverse AMM will
+
 ## _**MetaReverse Launchpad**_
 
 MetaReverse will have their own launchpad where projects can create their own token. Launch on our platform. This can be a fairlaunch,private sale,whitelisted or public presale. Projects will be able to KYC, have audits available, and our 'MTR Launchpad NFT Badge' (will be explained in the next topic) also we will have tools available to help you so you can use them with your own research! we will have this because we care about our community and safety is our number 1 priority!
