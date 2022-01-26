@@ -81,6 +81,22 @@ Always Do Your Own Research.
 
 ## _**MetaReverse Launchpad NFT Badge**_
 
+Our nft badges will have different kind of tiers.&#x20;
+
+How higher the tier how more effort/money the project did spend and can be 'trusted more'
+
+Tier 1 will simply cost 1BNB
+
+Tier 2 Will cost 2 BNB And Requires KYC&#x20;
+
+Tier 3 Will Cost 3BNB And Requires KYC, Team Tokens locked for atleast 3months with a vesting period.
+
+Tier 4 Will Cost 4BNB And Requires KYC,Team Tokens locked for atleast 4months with a vesting period.
+
+Tier 5 Will Cost 5BNB And Requires KYC Team Tokens locked for atleast 6 months with a vesting period. And Audit is required.
+
+The NFT Badge based on your tier will be sent to the token, can only be used once and will be shown at your MetaReverse launchpad profile(where the presale is being held).
+
 ## _**MetaReverse NFT Marketplace**_
 
 
