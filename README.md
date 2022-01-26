@@ -87,6 +87,28 @@ MetaReverse NFT Launchpad will launch NFT projects by doing NFT presale's(whitel
 
 
 
+## MetaReverse
+
+Once upon a time, a world where everything was magical and perfect, where creatures of all kinds lived in harmony. That was the planet Trenk. When suddenly three portals were opened, one on each continent. These portals were mysteriously opened in secret places and gave life to three species of monsters.
+
+The first to settle quietly were the Hippotamix, with their amphibious capacity easily dominated the central part of the planet, covered by water and land rich in vegetation and closed forests, far from the heat and cold poles.
+
+The other two species arrived on the planet at almost the same time, through portals that opened at both poles. In the cold pole, monsters called Pingreks dominated the entire snow-covered region, with its huge population, trained for war.
+
+In the hot pole where the sun burns, only the Lizaruns remain, a crawling species that devours everything that comes their way, luckily they cannot live in low temperatures.
+
+Since then the dominant species of the planet control all resources and enslave all other types of life, (When they don't turn to food).
+
+The last hope...
+
+On planet Vintk a species of humanoids, the Sonamuh equipped with high technology, promised to maintain the balance of Metareverse, and will do everything to maintain order on Planet Trenk
+
+## MetaReverse NFT's/Game
+
+MetaReverse will have 4 Species, Lizaruns,Sonamuh,Hippotamix and Pingreks. Every species will have their own nft,utility and will be available inside the game. There will also be a ranking system for the NFT's because every nft will have their own rarity and score. We will have Automatic NFT Staking and holders will be rewarded in $MTR based on their score/ranking. Also the MetaReverse will have digital land ofcourse ! As example you could do Auto NFT staking>get tokens>stake tokens>get more tokens>hold,relax and get ready for digital land!&#x20;
+
+
+
 ## Is MetaReverse safe?
 
 See for yourself:
