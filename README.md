@@ -36,8 +36,8 @@ Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hol
 
 ### Earn tokens with Vintk Pools&#x20;
 
-Stake $MTR, earn free tokens. It’s really that easy.\
-$MTR will be earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party every day, so you can earn more, for even longer.
+Stake MTR, earn free tokens. It’s really that easy.\
+MTR will be earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party every day, so you can earn more, for even longer.
 
 ### Earn MTR with Trenk Yield Farms
 
@@ -67,19 +67,23 @@ New rounds every 5 minutes!
 
 
 
-## _**Casino**_
+### _**Casino**_
 
 In the MetaReverse casino players will be able to gamble by playing roulette,blackjack,prediction or a lottery. And win different prizes such as $MTR,$Vintk,$Trenk and other tokens that will be added to our pool.
 
 _****_
 
-## _**MetaReverse AMM**_
+## Play
 
-MetaReverse AMM will
+Play with NFTs. Play to earn. Play to save the planet from invaders.
+
+## Launch
+
+Our platforms for launching tokens, pools and NFTs will be controlled, only projects with KYC will be able to participate, although we always recommend that you do your own research.
 
 ## _**MetaReverse Launchpad**_
 
-MetaReverse will have their own launchpad where projects can create their own token. Launch on our platform. This can be a fairlaunch,private sale,whitelisted or public presale. Projects will be able to KYC, have audits available, and our 'MTR Launchpad NFT Badge' (will be explained in the next topic) also we will have tools available to help you so you can use them with your own research! we will have this because we care about our community and safety is our number 1 priority!
+MetaReverse will have their own launchpad where projects can create their own token. Launch on our platform. This can be a fairlaunch, private sale, whitelisted or public presale. Projects will be able to KYC, have audits available, and our 'MTR Launchpad NFT Badge' (will be explained in the next topic) also we will have tools available to help you so you can use them with your own research! we will have this because we care about our community and safety is our number 1 priority!
 
 Always Do Your Own Research.
 
