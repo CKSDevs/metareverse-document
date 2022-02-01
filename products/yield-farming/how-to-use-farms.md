@@ -1,5 +1,5 @@
 ---
-description: Yield Farming on PancakeSwap is easy!
+description: Yield Farming on MetaReverse AMM is easy!
 ---
 
 # How to Use Farms
@@ -111,7 +111,7 @@ To collect your rewards, you’ll need to visit your chosen Farm and collect the
 
 ![](https://lh5.googleusercontent.com/nBfqNjKcuqvj-LhW76CPmV2pyGS-SwGsf1U\_9top7OS7wnl24xQRzudcOgZbQvNc0P8rQetAU9\_52mB9TatXqyMcdCRyMk0nRzel8BqWPGNyiTBGB8Z-c3LcHTJVXaAb5CWyD5J4)
 
-1. Click the **Harvest** button and confirm the action in your wallet. After a short wait, the CAKE will be claimed to your wallet for you to use as you like.
+1. Click the **Harvest** button and confirm the action in your wallet. After a short wait, the $MTR will be claimed to your wallet for you to use as you like.
 
 ### How often should I harvest my rewards?
 
