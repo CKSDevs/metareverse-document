@@ -6,6 +6,25 @@ description: Yield Farming on MetaReverse AMM is easy!
 
 ![](<../../.gitbook/assets/docs-masthead (2) (1).png>)
 
+## Earn
+
+> Earn MTR and other tokens for free with super high interest rates.
+
+### Earn tokens with Vintk Pools&#x20;
+
+Stake MTR, earn free tokens. It’s really that easy.\
+MTR will be earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party every day, so you can earn more, for even longer.
+
+### Earn MTR with Trenk Yield Farms
+
+Stake LP tokens, earn MTR. You take on a little more exposure to market fluctuations than with the Vintk Pools, but can earn higher APR to offset the risk.
+
+### Earn Trading Fees
+
+No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs)
+
+
+
 Yield Farming in Farms is a great way to earn $MTR rewards on MetaReverseAMM.
 
 Unlike $Vintk Pools, Farms require you to stake **two tokens** to get LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn $MTR while still keeping a position in your other tokens!
