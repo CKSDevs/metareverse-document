@@ -2,6 +2,7 @@
 
 * [MetaReverse Intro](README.md)
 * [Get Started](get-started/README.md)
+  * [Page 1](get-started/page-1.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
   * [Using MetaReverse without Centralized Exchanges](get-started/using-pancakeswap-without-centralized-exchanges.md)
