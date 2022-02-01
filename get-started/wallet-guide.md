@@ -33,7 +33,7 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 ### Which mobile wallet should I choose?
 
-This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
+This comparison table gives an overview of the most popular mobile wallets used with MetaReverse.
 
 |                                                          | Trust Wallet                  | MetaMask | Token Pocket | SafePal |
 | -------------------------------------------------------- | ----------------------------- | -------- | ------------ | ------- |
@@ -208,7 +208,7 @@ Desktop wallets are available on your home computer or laptop computer. Wallets 
 
 ### Which desktop wallet should I choose?
 
-This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap.
+This comparison table gives an overview of the most popular desktop wallets used with MetaReverse.
 
 |                                                          | MetaMask | Binance Wallet | Token Pocket |
 | -------------------------------------------------------- | -------- | -------------- | ------------ |
