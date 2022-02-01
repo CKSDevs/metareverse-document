@@ -241,7 +241,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 **Cons:**
 
 * Longer setup time than other options
-* Additional steps needed to use with Binance Smart Chain and PancakeSwap
+* Additional steps needed to use with Binance Smart Chain and MetaReverse
 * Extra information and settings may confuse beginners
 
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects browser)\
