@@ -6,13 +6,13 @@ Trading on PancakeSwap is very easy compared to most exchanges. You aren't going
 
 ### Getting set up to trade
 
-Before you can trade, you will need a Binance Smart Chain-compatible wallet. You can learn how to get one [here](https://docs.pancakeswap.finance/get-started/wallet-guide). You will also need to have some BEP20 tokens to trade with. You can learn how to get some [here](https://docs.pancakeswap.finance/get-started/bep20-guide).
+Before you can trade, you will need a Binance Smart Chain-compatible wallet. You can learn how to get one [here](../../get-started/wallet-guide.md). You will also need to have some BEP20 tokens to trade with. You can learn how to get some [here](../../get-started/bep20-guide.md).
 
-### Trading on the PancakeSwap exchange
+### Trading on the MetaReverse AMM exchange
 
-1\. Go to the exchange page [here](https://exchange.pancakeswap.finance/#/swap).
+1\. Go to the exchange page [here](https://www.swap.metareverse.finance).
 
-2\. Unlock your Binance Smart Chain-compatible wallet by clicking **Unlock Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to PancakeSwap, you can view the guide to [here](https://docs.pancakeswap.finance/get-started/connection-guide).
+2\. Unlock your Binance Smart Chain-compatible wallet by clicking **Unlock Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to MetaReverse AMM, you can view the guide to [here.](../../get-started/connection-guide.md)
 
 ![](<../../.gitbook/assets/image (155).png>)
 
@@ -41,4 +41,3 @@ When you are ready, click the **Confirm Swap** button. Your wallet will ask you 
 7\. Done! You can click **View on BscScan** to see your transaction details on the explorer.
 
 ![](<../../.gitbook/assets/image (23).png>)
-
