@@ -4,17 +4,17 @@
 
 "Liquidity" is central to how MetaReverse's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 
-In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can stake in Farms to earn CAKE rewards!
+In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can [stake in Farms](../yield-farming/) to earn $MTR rewards!
 
 ### **Adding liquidity**
 
 To provide liquidity, you’ll need to commit an amount of any token pair you like. Your lowest value (in USD) of the two tokens will be the limit to the liquidity you can provide.
 
-You can easily trade for any tokens you need. Visit our [How to Trade on PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
+You can easily trade for any tokens you need. [Visit our How to Trade on MetaReverseAMM](trade-guide.md) guide if you need to.
 
-In this example, we will add liquidity using BNB and CAKE.\\
+In this example, we will add liquidity using BNB and $MTR.
 
-***
+_**EDIT LIQUIDITY PAGE!!!!**_
 
 1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool).
 
@@ -28,7 +28,7 @@ In this example, we will add liquidity using BNB and CAKE.\\
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_03.png)
 
-4\. For the bottom input, click ‘Select a currency’. And choose the other token in the liquidity pair you want to add liquidity to. Here, we are gong to use CAKE as an example.
+4\. For the bottom input, click ‘Select a currency’. And choose the other token in the liquidity pair you want to add liquidity to. Here, we are gong to use $MTR as an example.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_04.png)
 
@@ -59,6 +59,8 @@ You can repeat the above steps to add more liquidity, or add liquidity to differ
 ### **Removing liquidity**
 
 To remove liquidity.
+
+_**EDIT LIQUIDITY PAGE!!!!**_
 
 1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool)**.**
 
