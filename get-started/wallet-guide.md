@@ -348,5 +348,5 @@ And that’s it, all done! You can follow our [Connect Your Wallet to PancakeSwa
 {% hint style="danger" %}
 \*\*NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
 
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.\*\*
+The genuine MetaReverse site and staff will never ask you to input your seed phrase.\*\*
 {% endhint %}
