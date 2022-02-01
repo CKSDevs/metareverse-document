@@ -2,10 +2,10 @@
 
 ![](<../../.gitbook/assets/docs-masthead-21- (2).png>)
 
-Since it requires several steps, using Farms with PancakeSwap can seem intimidating at first. This guide will walk you through using the Farms contract directly through BscScan.
+Since it requires several steps, using Farms with MetaReverse AMM can seem intimidating at first. This guide will walk you through using the Farms contract directly through BscScan.
 
 {% hint style="warning" %}
-Please understand that using BscScan to interact with contracts is not recommended for beginners. If you're not feeling confident, we suggest using the [How to Use Farms guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) instead.
+Please understand that using BscScan to interact with contracts is not recommended for beginners. If you're not feeling confident, we suggest using the [How to Use Farms guide](how-to-use-farms.md) instead.
 {% endhint %}
 
 ## Finding Farm process identifier
@@ -145,8 +145,6 @@ If you didn't copy down your PID earlier, you can learn how to get it in the **F
 6\. You can confirm your withdrawal worked by clicking **View your transaction**.
 
 ![](<../../.gitbook/assets/image (145).png>)
-
-
 
 ## **Making an emergency withdrawal**
 
