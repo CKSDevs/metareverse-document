@@ -47,7 +47,7 @@ The process is about the same for moving from **Ethereum** to BSC.
     3.  Complete within the deadline. (shown below as countdown)
 
         ![](https://lh6.googleusercontent.com/mag8YXlpq0WtvlOP7GfPNZrXWralO5l6eWPFTrv9ZiQiyTryXBjtm4GVw\_coNjnthYIm-GlP5o\_ZuIF0lzOFYXnWn4wMSvcGOnmZIfVlOtTb0c08F6xgsL-4Gs936pYHUzJYbVOg=s0)
-11. Once you complete the transaction. You should receive your fund in Binance Smart Chain wallet in a few minutes. After that, you can start using PancakeSwap to swap some tokens on Binance Smart Chain!
+11. Once you complete the transaction. You should receive your fund in Binance Smart Chain wallet in a few minutes. After that, you can start using MetaReverse AMM to swap some tokens on Binance Smart Chain!
 
 Additionally, you can check out [this user guide](https://binance-wallet.gitbook.io/binance-bridge/guides/binance-bridge-v3) and [video tutorial](https://fast.wistia.net/embed/iframe/fhip2z4nth) from Binance.
 {% endtab %}
@@ -66,7 +66,8 @@ Let's try moving USDT from Polygon (MATIC) blockchain to BSC using AnySwap.
 7. Additionally if you want AnySwap to deposit your USDT into another BSC address. Please use the "+ Send To" button.
 8. Click "Swap" and complete your final cross-chain transactions.
 9. The entire process will take around 10-30 minutes to complete depends on how congested the network is.
-10. Once finished. You should receive your fund in your BSC wallet. Now you can start using PancakeSwap to swap some tokens on Binance Smart Chain!
+10. Once finished. You should receive your fund in your BSC wallet. Now you can start using MetaReverse
+11. &#x20;to swap some tokens on Binance Smart Chain!
 {% endtab %}
 
 {% tab title="O3 Hub" %}
@@ -91,7 +92,7 @@ Let's try using O3 Hub to moving USDT from ERC-20 blockchain to Binance Smart Ch
 9.  The entire process will take around 10-30 minutes to complete depends on how congested the network is. You can keep track of the progress on history tab.
 
     ![](<../.gitbook/assets/MBP3-2021.10.19-054520AM-Google Chrome\_O3swap.png>)
-10. Once finished. You should receive your funds in your BSC wallet. Now you can start using PancakeSwap to swap some tokens on Binance Smart Chain!
+10. Once finished. You should receive your funds in your BSC wallet. Now you can start using MetaReverse AMM to swap some tokens on Binance Smart Chain!
 
 Additionally, you can check out [this user guide](https://docs.o3swap.com/o3-swap-user-guide/hub#2.-hub-swap) from O3 Swap.
 {% endtab %}
