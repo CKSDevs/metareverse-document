@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/docs-masthead-5-.png)
 
-Trading on PancakeSwap is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and calculations are all handled for you.
+Trading on MetaReverse AMM is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and calculations are all handled for you.
 
 ### Getting set up to trade
 
