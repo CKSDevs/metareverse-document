@@ -31,7 +31,7 @@
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
 * [🍯 Vintk Pools](products/syrup-pool/README.md)
   * [How to Stake in Vintk Pools](products/syrup-pool/syrup-pool-guide.md)
-  * [Auto CAKE Syrup Pool](products/syrup-pool/auto-compounding.md)
+  * [Auto $MTR Vintk Pool](products/syrup-pool/auto-compounding.md)
   * [Syrup Pool FAQ & Troubleshooting](products/syrup-pool/syrup-pool-faq.md)
 * [🎟 Lottery v2](products/lottery/README.md)
   * [How to Play Lottery v2](products/lottery/lottery-guide.md)
