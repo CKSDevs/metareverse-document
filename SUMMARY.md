@@ -49,7 +49,7 @@
   * [Contract Details](products/ifo-initial-farm-offering/contract-details.md)
 * [📈 Analytics (Info)](products/info/README.md)
   * [Analytics](products/info/pancakeswap-analytics.md)
-* [🗳 Voting](products/voting/README.md)
+* [🗳 MetaReverse Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
   * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
 * [Games](products/games.md)
