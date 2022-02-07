@@ -2,25 +2,27 @@
 
 ![](<../../.gitbook/assets/docs-masthead-1- (1).png>)
 
-Create a personalized profile on PancakeSwap to share your personality with the world. Choose a cute bunny NFT for your profile picture, give yourself a unique name, and join an awesome team!
+Create a personalized profile on MetaReverse to share your personality with the world. Choose a cute bunny NFT for your profile picture, give yourself a unique name, and join an awesome team!
 
-Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special PancakeSwap team events.\
+Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special MetaReverse team events.\
 \
-**This process will cost a total of 1.5 CAKE.**
+**This process will cost a total of 1.5 $MTR.**
 
 ![](<../../.gitbook/assets/image (170).png>)
 
-1\. Visit **Your Profile** under **Teams & Profile** [here](https://pancakeswap.finance/profile).\
-****
+1\. Visit **Your Profile** under **Teams & Profile** [here](https://pancakeswap.finance/profile).\\
+
+***
 
 ![](<../../.gitbook/assets/image (118).png>)
 
-2\. Under “Choose your Starter!”, pick one of the available bunny NFTs you’d like for your profile picture. The NFT will cost you 1 CAKE.
+2\. Under “Choose your Starter!”, pick one of the available bunny NFTs you’d like for your profile picture. The NFT will cost you 1 $MTR.
 
 ![](<../../.gitbook/assets/image (160).png>)
 
-For this example we’ll use Dollop.\
-****
+For this example we’ll use Dollop.\\
+
+***
 
 ![](<../../.gitbook/assets/image (84).png>)
 
@@ -28,8 +30,9 @@ For this example we’ll use Dollop.\
 
 ![](<../../.gitbook/assets/image (164).png>)
 
-****\
-****
+\*\*\*\*\\
+
+***
 
 ![](<../../.gitbook/assets/image (102).png>)
 
@@ -39,17 +42,19 @@ If you face Oops! error, please check [troubleshooting](https://docs.pancakeswap
 
 ![](<../../.gitbook/assets/image (144).png>)
 
-5\. Click **Enable**, then confirm the action in your wallet. Once it's approved, click **Next Step**.\
-****
+5\. Click **Enable**, then confirm the action in your wallet. Once it's approved, click **Next Step**.\\
+
+***
 
 ![](<../../.gitbook/assets/image (151).png>)
 
 ![](<../../.gitbook/assets/image (133).png>)
 
-6\. On the next page you will be asked to join a team. Joining a team lets you compete in special events to earn special, limited rewards! Choose a team under “Join a Team”. For this example we will choose Syrup Storm.
+6\. On the next page you will be asked to join a team. Joining a team lets you compete in special events to earn special, limited rewards! Choose a team under “Join a Team”. For this example we will choose Vintk Storm.
 
-7\. Click the **Next Step **button.\
-****
+7\. Click the \*\*Next Step \*\*button.\\
+
+***
 
 ![](<../../.gitbook/assets/image (95).png>)
 
@@ -67,17 +72,18 @@ If you face "username keeps spinning" issue, please check [troubleshooting](http
 
 ![](<../../.gitbook/assets/image (74).png>)
 
-11\. You’ll receive a message saying your profile contract will cost you 0.5 CAKE. Click **Enable, **then confirm the action in your wallet. After it's approved, click the **Confirm** button.
+11\. You’ll receive a message saying your profile contract will cost you 0.5 CAKE. Click \*\*Enable, \*\*then confirm the action in your wallet. After it's approved, click the **Confirm** button.
 
 ![](<../../.gitbook/assets/image (148).png>)
 
 ![](<../../.gitbook/assets/image (161).png>)
 
-12\. After a short wait your new profile will appear. Looking good!\
-****
+12\. After a short wait your new profile will appear. Looking good!\\
+
+***
 
 ![](<../../.gitbook/assets/image (116).png>)
 
 You may notice your name is starred out. To view your name, click the **👁** eye icon to the right of the stars, then you should now see your profile name.
 
-Congratulations! You now have your profile set up. Now anyone can view your profile to see your profile NFT picture, your team of choice, and your PancakeSwap achievements. You're also ready to participate in any special team events when they happen!
+Congratulations! You now have your profile set up. Now anyone can view your profile to see your profile NFT picture, your team of choice, and your MetaReverse achievements. You're also ready to participate in any special team events when they happen!
