@@ -2,7 +2,7 @@
 
 ![](<../../.gitbook/assets/masthead (5) (4) (4) (5) (5).png>)
 
-MetaReverse Prediction is a fun and simple decentralized prediction market.
+PancakeSwap Prediction is a fun and simple decentralized prediction market.
 
 > #### Predict whether BNB's price will rise or fall – guess correctly to win!
 
@@ -18,7 +18,7 @@ Have fun!
 
 [**View V2 smart contract**](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)\*\*\*\*
 
-## MetaReverse Prediction Guides
+## PancakeSwap Prediction Guides
 
 Get started with Prediction with our guides and FAQs.
 
