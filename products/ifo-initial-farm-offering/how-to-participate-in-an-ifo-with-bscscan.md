@@ -84,7 +84,7 @@ To buy into the Basic Sale, type 0 into the \_pid field.
 
 ![](https://lh6.googleusercontent.com/SHgXqiNtNXoXitNbNY4fBkuXC5UjHJTiQ8rwDp4SEXtzM1zNANHtMQ6PzwmP2zQwp2xVL8gRHKSBrgp4qyMJALrZmq9s0EddnC0eAQcvV4eqMObym\_\_T5tPamtdSJMiUVMn5BYJn)
 
-You can also check the IFO page on PancakeSwap’s website to see your deposit.
+You can also check the IFO page on MetaReverse’s website to see your deposit.
 
 ![](https://lh6.googleusercontent.com/9tFTlSwXmoSDruTPjhe\_IH7o87YOFIdeHyafIs0aBjaZeRv9jP43xjZ7\_IMdW6q5jP2U\_eN4RxBEm00O1dKP9Pp0Me1Eb6rI6pHXxKIFtgsUpSgNvCrq24\_q4c\_xNWGYDm4wPk22)
 
