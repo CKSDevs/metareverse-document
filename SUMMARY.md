@@ -57,7 +57,7 @@
 
 ## Tokenomics
 
-* [CAKE](tokenomics/cake/README.md)
+* [$MTR](tokenomics/cake/README.md)
   * [CAKE Tokenomics](tokenomics/cake/cake-tokenomics.md)
   * [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
 
