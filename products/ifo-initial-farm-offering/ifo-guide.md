@@ -10,9 +10,9 @@ IFOs are available for a very limited time. Get ready ahead of the event to make
 
 Before you can join an IFO there are a few things you will need to do to get ready. Follow the steps below to make sure you're ready to buy when the IFO event goes live.
 
-### Create your PancakeSwap profile
+### Create your MetaReverse profile
 
-To take part in an IFO, you'll need a PancakeSwap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total $MTR supply down by burning a little $MTR from each profile created.\
+To take part in an IFO, you'll need a MetaReverse profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total $MTR supply down by burning a little $MTR from each profile created.\
 \
 To create a profile, you can follow our How to Set Up an NFT Profile guide [here](https://docs.pancakeswap.finance/get-started/profile-guide).
 
