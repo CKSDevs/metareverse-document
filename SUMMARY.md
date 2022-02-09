@@ -40,6 +40,7 @@
   * [How to Use Prediction](products/prediction/prediction-guide.md)
   * [Prediction FAQ & Troubleshooting](products/prediction/prediction-faq.md)
 * [🖼 NFT Market](products/nft-market.md)
+* [MetaReverse NFT Launchpad](products/metareverse-nft-launchpad.md)
 * [🖼 NFT Profile System](products/nft-profile-system/README.md)
   * [How to Set Up an NFT Profile](products/nft-profile-system/profile-guide.md)
   * [Teams](products/nft-profile-system/teams.md)
