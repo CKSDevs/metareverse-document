@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/docs-masthead-16-.png)
 
-Joining IFOs can be exciting and very rewarding. The [MetaReverse website’s IFO page](https://metareverse.finance/IFO) is an easy way to join an IFO. But some users may prefer to interact directly with smart contracts on the BscScan website. Using BscScan will let you see a contract's code, review its analytics and events in real-time, and find other useful information.
+Joining IFOs can be exciting and very rewarding. The [PancakeSwap website’s IFO page](https://pancakeswap.finance/ifo) is an easy way to join an IFO. But some users may prefer to interact directly with smart contracts on the BscScan website. Using BscScan will let you see a contract's code, review its analytics and events in real-time, and find other useful information.
 
 Currently, only MetaMask or WalletConnect wallets can interact directly with BscScan. WalletConnect is still in beta, so for now we recommend using MetaMask.
 
