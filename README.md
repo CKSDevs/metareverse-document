@@ -30,33 +30,9 @@ Trading fees are lower than other top decentralized exchanges too, so that's a d
 Trade directly from your wallet app.\
 Unlike centralized exchanges like Binance or Coinbase, MetaReverse doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
 
-## 💸 Earn
 
-> Earn MTR and other tokens for free with super high interest rates.
 
-### Earn tokens with Vintk Pools&#x20;
-
-Stake MTR, earn free tokens. It’s really that easy.\
-MTR will be earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party every day, so you can earn more, for even longer.
-
-### Earn MTR with Trenk Yield Farms
-
-Stake LP tokens, earn MTR. You take on a little more exposure to market fluctuations than with the Vintk Pools, but can earn higher APR to offset the risk.
-
-### Earn Trading Fees
-
-No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs).
-
-## 🎲 Win
-
-> MetaReverse makes making money fun.
-
-### Lottery
-
-**Lots of Money** regularly go up for grabs on the MetaReverse Lottery.\
-Join for your chance to win big!
-
-### NFT Collectibles
+NFT Collectibles
 
 Win collectible NFTs for participating in trading competitions and more fun & games.
 
