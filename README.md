@@ -36,10 +36,7 @@ NFT Collectibles
 
 Win collectible NFTs for participating in trading competitions and more fun & games.
 
-### Prediction
-
-Win $BNB if you can predict whether the BNB price will rise or fall.\
-New rounds every 5 minutes!
+###
 
 
 
