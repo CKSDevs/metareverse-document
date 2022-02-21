@@ -18,7 +18,7 @@ Our NFTs have one great and cool difference unlike all other NFTs — they have 
 
 So, when you get your NFT, you **can stake it and earn $MTR-Ventk **<mark style="color:purple;">****</mark>** LP.** You **can stake any amount**, no limits on that. When you stake your NTFs you start getting rewards in $Ventk, which you need to harvest, same like in farms.
 
-## Where do the rewards come from?
+❓ **Where rewards come from** ❓
 
 25 **%** from **each transaction** of the booster opening. But our system, is not that simple. Rewards are changing in case of volume. That means how more active the people are, how bigger the rewards will be.
 
