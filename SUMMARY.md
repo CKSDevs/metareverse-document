@@ -18,6 +18,8 @@
   * [Social Accounts & Communities](contact-us/telegram.md)
 * [Brand & Logos](brand.md)
 * [Roadmap](roadmap.md)
+* [Page 1](page-1.md)
+* [👫 Referral system](referral-system.md)
 
 ## Products
 
@@ -41,7 +43,7 @@
   * [Prediction FAQ & Troubleshooting](products/prediction/prediction-faq.md)
 * [🖼 NFT Market](products/nft-market.md)
 * [MetaReverse NFT Launchpad](products/metareverse-nft-launchpad.md)
-* [Earn with your NFTS](products/earn-with-your-nfts/README.md)
+* [Earn with your NFTS](products/nft-earn.md)
   * [Still Stuck with Questions?](products/earn-with-your-nfts/still-stuck-with-questions.md)
 * [🖼 NFT Profile System](products/nft-profile-system/README.md)
   * [How to Set Up an NFT Profile](products/nft-profile-system/profile-guide.md)

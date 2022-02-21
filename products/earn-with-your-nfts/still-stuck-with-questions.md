@@ -21,3 +21,6 @@ There are 4 ways of getting more LP tokens:
 
 First of all, through the time we will create some simple p2e games, where you could earn $Vintk tokens or NFTs. But for sure, you will need to take risks, you can both earn a lot and lose a lot. Our main goal is to develop a Metaverse and a fighting P2E game about our 4 species within the MetaReverse.
 
+## Can I earn $VINTK tokens?
+
+Yes, you can! Simply go to the [staking page](https://www.farms.metareverse.finance) in our menu, where you can stake your $MTR tokens and farm more of them (amount based on the volume of $MTR).
