@@ -44,7 +44,6 @@
 * [🖼 NFT Market](products/nft-market.md)
 * [MetaReverse NFT Launchpad](products/metareverse-nft-launchpad.md)
 * [Solution](products/solution.md)
-* [Page 2](products/page-2.md)
 * [Earn with your NFTS](products/nft-earn.md)
   * [Still Stuck with Questions?](products/earn-with-your-nfts/still-stuck-with-questions.md)
 * [💎 NFT crafting](products/nft-crafting.md)
