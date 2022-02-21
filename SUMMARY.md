@@ -18,7 +18,6 @@
   * [Social Accounts & Communities](contact-us/telegram.md)
 * [Brand & Logos](brand.md)
 * [Roadmap](roadmap.md)
-* [👫 Referral system](referral-system.md)
 
 ## Products
 
@@ -41,11 +40,11 @@
   * [How to Use Prediction](products/prediction/prediction-guide.md)
   * [Prediction FAQ & Troubleshooting](products/prediction/prediction-faq.md)
 * [🖼 NFT Market](products/nft-market.md)
-* [MetaReverse NFT Launchpad](products/metareverse-nft-launchpad.md)
-* [Solution](products/solution.md)
+* [MetaReverse NFT Launchpad](products/metareverse-nft-launchpad/README.md)
+  * [Solution](products/metareverse-nft-launchpad/solution.md)
 * [Earn with your NFTS](products/nft-earn.md)
   * [Still Stuck with Questions?](products/earn-with-your-nfts/still-stuck-with-questions.md)
-* [💎 NFT crafting](products/nft-crafting.md)
+  * [💎 NFT crafting](products/earn-with-your-nfts/nft-crafting.md)
 * [🖼 NFT Profile System](products/nft-profile-system/README.md)
   * [How to Set Up an NFT Profile](products/nft-profile-system/profile-guide.md)
   * [Teams](products/nft-profile-system/teams.md)
@@ -58,12 +57,13 @@
 * [🗳 MetaReverse Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
   * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
-* [Games Introduction](products/games-introduction.md)
-* [Conclusion](products/conclusion.md)
-* [TECHNOLOGY](products/technology.md)
-* [Conclusion](products/conclusion-1.md)
-* [Games](products/games.md)
+* [Games Introduction](products/games-introduction/README.md)
+  * [Conclusion](products/games-introduction/conclusion/README.md)
+    * [TECHNOLOGY](products/games-introduction/conclusion/technology.md)
+    * [Conclusion](products/games-introduction/conclusion/conclusion/README.md)
+      * [Games](products/games-introduction/conclusion/conclusion/games.md)
 * [Launchpad](products/launchpad.md)
+* [👫 Referral system](products/referral-system.md)
 
 ## Tokenomics
 
