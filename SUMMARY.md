@@ -60,6 +60,7 @@
   * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
 * [Games Introduction](products/games-introduction.md)
 * [Conclusion](products/conclusion.md)
+* [TECHNOLOGY](products/technology.md)
 * [Games](products/games.md)
 * [Launchpad](products/launchpad.md)
 
