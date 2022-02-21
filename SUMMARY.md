@@ -18,7 +18,6 @@
   * [Social Accounts & Communities](contact-us/telegram.md)
 * [Brand & Logos](brand.md)
 * [Roadmap](roadmap.md)
-* [Page 1](page-1.md)
 * [👫 Referral system](referral-system.md)
 
 ## Products
