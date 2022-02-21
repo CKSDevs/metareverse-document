@@ -6,21 +6,17 @@ Our NFTs have a real utility, if you are owner of the NFT you can stake it and e
 
 ## 💰 NFT staking and $Vintk earn
 
-Our NFTs have one great and cool difference unlike all other NFTs — they have real usage. That means, you can not only collect our cool Baby Pokemoons, but also use them for real purpose.&#x20;
+Our NFTs have one great and cool difference unlike all other NFTs — they have real usage. That means, you can not only collect our cool MetaReverse Species, but also use them for real purpose.&#x20;
 
-**The main purpose is a staking/USDT earning.**
+**The main purpose is a staking/$MTR earning.**
 
-_You can read about NFTs and NFT seasons here —_ [_LINK_](broken-reference)__
+**Main formula of the project:** **High booster opening volume = High price of $MTR = high rewards for the NFTs**
 
-__
-
-**Main formula of the project:** <mark style="color:purple;">**High volume = High price of pokeballs = high rewards for the NFTs**</mark>
-
-**Main formula of NFT staking:** <mark style="color:green;">**Higher evolution of NFT = Higher BPM-USDT LP rewards**</mark>
+**Main formula of NFT staking:** **The higher the rarity of the NFT = Higher $MTR-$Ventk LP rewards**
 
 <mark style="color:green;">****</mark>
 
-So, when you get your NFT, you <mark style="color:purple;">**can stake it and earn**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;">**BPM-USDT LP**</mark>**.** You **can stake any amount**, no limits on that. When you stake your NTFs you start getting rewards in USDT, which you need to harvest, same like in farms. You can stake your NFTs <mark style="color:green;">only in the corresponding season.</mark> After season ends — you will need to <mark style="color:green;">get NFTs of new season,</mark> to continue getting rewards.
+So, when you get your NFT, you **can stake it and earn $MTR-Ventk **<mark style="color:purple;">**LP**</mark>**.** You **can stake any amount**, no limits on that. When you stake your NTFs you start getting rewards in USDT, which you need to harvest, same like in farms. You can stake your NFTs <mark style="color:green;">only in the corresponding season.</mark> After season ends — you will need to <mark style="color:green;">get NFTs of new season,</mark> to continue getting rewards.
 
 
 
