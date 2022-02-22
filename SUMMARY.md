@@ -60,8 +60,8 @@
 * [Games Introduction](products/games-introduction/README.md)
   * [Conclusion](products/games-introduction/conclusion/README.md)
     * [TECHNOLOGY](products/games-introduction/conclusion/technology.md)
-    * [Conclusion](products/games-introduction/conclusion/conclusion/README.md)
-      * [Games](products/games-introduction/conclusion/conclusion/games.md)
+    * [Concept](products/games-introduction/conclusion/concept/README.md)
+      * [Games](products/games-introduction/conclusion/concept/games.md)
 * [Launchpad](products/launchpad.md)
 * [👫 Referral system](products/referral-system.md)
 
