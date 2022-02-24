@@ -4,7 +4,7 @@
 
 ### CHALLENGE STATEMENT <a href="#challenge" id="challenge"></a>
 
-Niftify is on a mission to create a strong community of NFT enthusiasts (content creators, traders, collectors, etc.) wanting to buy, sell or trade NFTs, in a hassle free environment.
+MetaReverse is on a mission to create a strong community of NFT enthusiasts (content creators, traders, collectors, etc.) wanting to buy, sell or trade NFTs, in a hassle free environment.
 
 Here's the challenge...
 
