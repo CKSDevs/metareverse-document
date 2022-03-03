@@ -20,7 +20,7 @@ NFTs are the future of collectibles; however, that can be the case for things an
 
 is taking NFTs out of their infancy and bringing them to the real world by unlocking their true potential in a world where everything digital or physical is bought, sold, or traded as an NFT. MetaReverse is going to be a user friendly NFT launchpad, marketplace and exchange aiming to help users to automate digital to physical redemptions.
 
-NFTs on Niftify are going to be used as proof of ownership and history tracking for even physical items, as well as proof of authenticity for valuable digital as well as physical assets.
+NFTs on MetaReverse are going to be used as proof of ownership and history tracking for even physical items, as well as proof of authenticity for valuable digital as well as physical assets.
 
 
 
@@ -28,16 +28,9 @@ NFTs on Niftify are going to be used as proof of ownership and history tracking 
 
 Some platforms have implemented a simple type of NFT marketplaces. Still, neither of them is able to solve all of the problems previously mentioned.
 
-\
-\
-
-
 MetaReverse confidently faces the challenges of exponential growth with the NFT marketplace and delivers unique solutions:
 
 \
-\
-
-
 MetaReverse features an all-inclusive platform, available to carry out almost everything related to NFTs. In other words, it is taking an active step in the evolution of NFTs, bringing them from the dark, and introducing them into real-life utility and a world where anyone anywhere could sell, buy and even trade both physical and digital assets as NFT. It doubles as an ecosystem that pays utmost attention to authenticity with relevant frameworks for proof of ownership and smart tracking.
 
 
