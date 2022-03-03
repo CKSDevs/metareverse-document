@@ -44,7 +44,6 @@
   * [Solution](products/metareverse-nft-launchpad/solution.md)
 * [Earn with your NFTS](products/nft-earn.md)
   * [Still Stuck with Questions?](products/earn-with-your-nfts/still-stuck-with-questions.md)
-  * [💎 NFT crafting](products/earn-with-your-nfts/nft-crafting.md)
 * [🖼 NFT Profile System](products/nft-profile-system/README.md)
   * [How to Set Up an NFT Profile](products/nft-profile-system/profile-guide.md)
   * [Teams](products/nft-profile-system/teams.md)
