@@ -36,32 +36,6 @@ NFT Collectibles
 
 Win collectible NFTs for participating in trading competitions and more fun & games.
 
-###
-
-
-
-### _**Casino**_
-
-In the MetaReverse casino players will be able to gamble by playing roulette,blackjack,prediction or a lottery. And win different prizes such as $MTR,$Vintk,$Trenk and other tokens that will be added to our pool.
-
-_****_
-
-## Play
-
-Play with NFTs. Play to earn. Play to save the planet from invaders.
-
-
-
-## _**MetaReverse NFT Marketplace**_
-
-
-
-MetaReverse will have a NFT Marketplace and we will have different projects launching their nft's on the marketplace. MetaReverse NFT's will be available aswell on MetaReverse NFT Marketplace.
-
-
-
-
-
 
 
 ## MetaReverse
@@ -79,10 +53,6 @@ Since then the dominant species of the planet control all resources and enslave 
 The last hope...
 
 On planet Vintk a species of humanoids, the Sonamuh equipped with high technology, promised to maintain the balance of Metareverse, and will do everything to maintain order on Planet Trenk
-
-## MetaReverse NFT's/Game
-
-MetaReverse will have 4 Species, Lizaruns,Sonamuh,Hippotamix and Pingreks. Every species will have their own nft,utility and will be available inside the game. There will also be a ranking system for the NFT's because every nft will have their own rarity and score. We will have Automatic NFT Staking and holders will be rewarded in $MTR based on their score/ranking. Also the MetaReverse will have digital land ofcourse ! As example you could do Auto NFT staking>get tokens>stake tokens>get more tokens>hold,relax and get ready for digital land!&#x20;
 
 
 
