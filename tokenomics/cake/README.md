@@ -20,7 +20,7 @@ Earn $MTR from Farms and Vintk Pools, win it in the lottery, or [buy it on the e
 * Use it in [Yield Farms](https://docs.pancakeswap.finance/products/yield-farming) to earn more $MTR
 * Buy Lottery tickets in the [MetaReverse Lottery](../../products/lottery/)
 * Create your [MetaReverse Profile](../../products/nft-profile-system/) and mint NFTs
-* [Vote on proposals](../../products/voting/) relating to the MetaReverse ecosystem
+* [Vote on proposals](broken-reference) relating to the MetaReverse ecosystem
 
 But that's not all -- there's much more on the horizon for $MTR!
 
