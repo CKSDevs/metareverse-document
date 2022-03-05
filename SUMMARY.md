@@ -70,20 +70,6 @@
   * [Meta Tokenomics](tokenomics/cake/cake-tokenomics.md)
   * [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
 
-## Developers <a href="#code" id="code"></a>
-
-* [Contributing](code/contributing/README.md)
-  * [Codebase Overview](code/contributing/codebase-overview.md)
-* [Bug Bounty](code/bug-bounty.md)
-* [Smart Contracts](code/smart-contracts/README.md)
-  * [PancakeSwap Exchange](code/smart-contracts/pancakeswap-exchange/README.md)
-    * [Factory v2](code/smart-contracts/pancakeswap-exchange/factory-v2.md)
-    * [Router v2](code/smart-contracts/pancakeswap-exchange/router-v2.md)
-  * [Main Staking/Syrup Pool/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
-  * [Auto CAKE Syrup Pool (CakeVault)](code/smart-contracts/cakevault.md)
-  * [Prediction V2](code/smart-contracts/prediction-v2.md)
-  * [Lottery v2](code/smart-contracts/lottery-v2.md)
-
 ## Hiring
 
 * [Become a Chef](hiring/become-a-chef/README.md)
@@ -95,13 +81,3 @@
   * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
   * [UI/UX Designer](hiring/become-a-chef/ui-ux-designer.md)
-
-## Contract Governance <a href="#governance" id="governance"></a>
-
-* [Lottery](governance/lottery/README.md)
-  * [Lottery Contract](governance/lottery/lottery-contract.md)
-* [Prediction](governance/prediction.md)
-* [Farms](governance/farms.md)
-* [Syrup Pools](governance/syrup-pools/README.md)
-  * [SmartChefInitializable](governance/syrup-pools/smartchefinitializable.md)
-  * [PoolDeployer](governance/syrup-pools/pooldeployer.md)

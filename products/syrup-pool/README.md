@@ -31,8 +31,8 @@ Reach out via [the application form](https://docs.pancakeswap.finance/contact-us
 
 ### Vintk Pool Smart Contracts <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
-[All Manual Syrup Pools](../../code/smart-contracts/main-staking-masterchef-contract.md)
+[All Manual Syrup Pools](broken-reference)
 
-[Auto CAKE Syrup Pool](../../code/smart-contracts/cakevault.md)
+[Auto CAKE Syrup Pool](broken-reference)
 
 ### &#x20;<a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
